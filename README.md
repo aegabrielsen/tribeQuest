@@ -1,0 +1,1 @@
+Tribe Quest is a small text-based city building incremental game that I made for a class. It utilizes HTML, CSS, and some JavaScript. The Player needs to balance resources and grow their population while collecting ancient artifacts that give bonuses.
